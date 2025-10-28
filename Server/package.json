@@ -1,0 +1,15 @@
+{
+  "name": "doctor-appointment-app",
+  "version": "1.0.0",
+  "description": "Doctor Appointment App",
+  "license": "ISC",
+  "author": "Nikhil Verma",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
